@@ -20,7 +20,6 @@ public class question4 {
                 Aaray.add(letters[i]);
             }
         }
-
         return Aaray;
     }
 }
